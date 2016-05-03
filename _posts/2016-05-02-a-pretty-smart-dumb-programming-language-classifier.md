@@ -42,6 +42,6 @@ if __name__ == '__main__':
     main()
 {% endhighlight %}
 You can see that it predicts correctly:
-![Sample.py output]({{ site.url }}/assets/sample_output.png)
+![Sample.py output]({{ site.url }}/assets/Sample_output.png)
 
 Clone the repo and try it yourself. It's kinda fun.
